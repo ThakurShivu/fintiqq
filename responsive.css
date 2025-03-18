@@ -1,0 +1,314 @@
+@media (min-width:1200px) and (max-width:1450px) {
+  .Background-Ball-Two{
+    position: absolute;
+    top: 0;
+    left: 12.5rem;
+  }
+
+  .Background-Ball-Three {
+    position: absolute;
+    top: 325px;
+    left: 10.5rem;
+  }
+}
+
+
+
+@media (max-width: 1200px) {
+
+  .navbar{
+    padding: 0.5rem 0.5rem;
+  }
+
+  .navbar-nav .nav-item {
+    margin-right: 0.5rem;
+}
+  .CAROUSEL-Heading h2 {
+    font-size: 4rem;
+  }
+
+  .CAROUSEL-Heading p {
+    font-size: 1.25rem;
+  }
+
+  .background-img img {
+    max-width: 200px;
+  }
+
+  .Background-Ball-Two{
+    position: absolute;
+    top: 0;
+    left: 7.5rem;
+  }
+
+  .Background-Ball-Three {
+    position: absolute;
+    top: 325px;
+    left: 6.5rem;
+  }
+  .owl-carousel .item {
+    padding: 10px;
+  }
+
+  .image-wrapper {
+    border-radius: 8px;
+  }
+
+  .image-wrapper:hover {
+    transform: translateY(-8px);
+  }
+
+  .trail-button .btn {
+    font-size: 1.1rem;
+    padding: 12px 25px;
+  }
+
+  .top-bg img {
+    max-width: 150px;
+  }
+}
+
+
+@media (min-width:900px) and (max-width:1100px) {
+  .Background-Ball-Two{
+    position: absolute;
+    top: 0;
+    left: 4.5rem;
+  }
+
+  .Background-Ball-Three {
+    position: absolute;
+    top: 285px;
+    left: 3.5rem;
+  }
+}
+
+
+
+@media (max-width: 768px) {
+
+  .CAROUSEL-Heading h2 {
+    font-size: 2.5rem;
+  }
+
+  .CAROUSEL-Heading p {
+    font-size: 1rem;
+  }
+
+  .Background-Ball-Two{
+    position: absolute;
+    top: 0;
+    left: 7.5rem;
+  }
+
+  
+
+  .background-img img,
+  .Background-Ball img,
+  .Background-Ball-Two img,
+  .Background-Ball-Three img {
+    max-width: 120px;
+  }
+
+ 
+
+  .banner-button button {
+    font-size: 1.2rem;
+    padding: 10px 20px;
+  }
+  .feature-heading {
+    font-size: 2rem;
+  }
+
+  .card-background {
+    margin-bottom: 20px;
+  }
+
+  .card-title {
+    font-size: 1.1rem;
+  }
+
+  .card-text {
+    font-size: 0.85rem;
+  }
+
+
+  .benefit-card-one {
+    margin-bottom: 20px;
+  }
+
+  .Benefit-content .card-title {
+    font-size: 1.1rem;
+  }
+
+  .Benefit-content .card-text {
+    font-size: 0.85rem;
+  }
+  .owl-carousel .item {
+    padding: 8px;
+  }
+
+  .image-wrapper {
+    border-radius: 6px;
+  }
+
+  .image-wrapper:hover {
+    transform: translateY(-5px);
+  }
+
+  .trail-button .btn {
+    font-size: 0.95rem;
+    padding: 8px 18px;
+  }
+
+  .top-bg img,
+  .right-bg img {
+    max-width: 120px;
+  }
+}
+
+
+  @media (max-width: 576px) {
+
+    .CAROUSEL-Heading h2 {
+      font-size: 1.8rem;
+      padding: 0;
+    }
+  
+    .CAROUSEL-Heading p {
+      font-size: 0.8rem;
+      padding: 0;
+    }
+
+  
+    .background-img img,
+    .Background-Ball img,
+    .Background-Ball-Two img,
+    .Background-Ball-Three img {
+      max-width: 100px;
+    }
+  
+   
+  
+    .banner-button button {
+      font-size: 1rem;
+      padding: 8px 15px;
+    }
+    .owl-carousel .item {
+      padding-left: 10px;
+     
+    }
+  
+    .image-wrapper {
+      border-radius: 4px;
+    }
+  
+    .image-wrapper:hover {
+      transform: translateY(-3px);
+    }
+    .Carousel-Heading h2 {
+      font-size: 1.5rem;
+    }
+    
+    .Carousel-Heading p {
+      font-size: 1rem;
+    }
+    
+    .banner-button button {
+      font-size: 1.2rem;
+    }
+  
+    .women-img {
+      text-align: center;
+    }
+    
+    .feature-heading {
+      font-size: 1.75rem;
+    }
+  
+    .card-title {
+      font-size: 1rem;
+    }
+  
+    .card-text {
+      font-size: 0.8rem;
+    }
+
+    .Benefit-content .card-title {
+      font-size: 1rem;
+    }
+  
+    .Benefit-content .card-text {
+      font-size: 0.8rem;
+    }
+    .trail-button .btn {
+      font-size: 0.85rem;
+      padding: 6px 15px;
+    }
+  
+    .top-bg img,
+    .right-bg img {
+      max-width: 100px;
+    }
+  
+    .trail-top {
+      top: -5px;
+    }
+  
+    .right-bg {
+      top: 20px;
+    }
+  }
+
+  
+  @media (max-width: 480px) {
+    .Background-Ball-Two{
+      position: absolute;
+      top: 0;
+      left: 3.5rem;
+    }
+    .owl-carousel .item {
+      padding: 10px;
+    }
+  
+    .image-wrapper {
+      border-radius: 6px;
+    }
+  }
+
+  @media (max-width: 992px) {
+  
+  
+    .trail-button .btn {
+      font-size: 1rem;
+      padding: 10px 20px;
+    }
+  
+    .trail-top {
+      top: -10px;
+    }
+  
+    .right-bg {
+      top: 30px;
+    }
+  }
+  
+  @media (max-width: 1199px) {
+    .CAROUSEL-Heading h2 {
+      font-size: 3rem;
+    }
+  
+    .CAROUSEL-Heading p {
+      font-size: 1.25rem;
+    }
+  
+    .background-img img,
+    .Background-Ball img,
+    .Background-Ball-Two img,
+    .Background-Ball-Three img {
+      max-width: 150px;
+    }
+  }
+
+  
+  
